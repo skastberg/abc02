@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4DZGijUPqlg=",
+  "dgSpecHash": "U80tugjJDtA=",
   "success": true,
-  "projectFilePath": "C:\\lalala\\abc02\\def01\\Function\\defHelper.csproj",
+  "projectFilePath": "C:\\lalalb\\abc02\\def01\\Function\\defHelper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samue\\.nuget\\packages\\microsoft.azure.functions.worker.extensions.abstractions\\1.3.0\\microsoft.azure.functions.worker.extensions.abstractions.1.3.0.nupkg.sha512",
     "C:\\Users\\samue\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\1.15.1\\microsoft.azure.functions.worker.sdk.1.15.1.nupkg.sha512",

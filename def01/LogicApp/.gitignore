@@ -3,7 +3,7 @@
 bin
 obj
 appsettings.json
-local.settings.json
+x.local.settings.json
 __blobstorage__
 .debug
 __queuestorage__

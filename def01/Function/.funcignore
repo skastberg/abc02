@@ -9,3 +9,5 @@ local.settings.json
 test
 workflow-designtime/
 lib/
+bin/
+obj/

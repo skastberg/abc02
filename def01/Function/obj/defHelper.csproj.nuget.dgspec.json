@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\lalala\\abc02\\def01\\Function\\defHelper.csproj": {}
+    "C:\\lalalb\\abc02\\def01\\Function\\defHelper.csproj": {}
   },
   "projects": {
-    "C:\\lalala\\abc02\\def01\\Function\\defHelper.csproj": {
+    "C:\\lalalb\\abc02\\def01\\Function\\defHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\lalala\\abc02\\def01\\Function\\defHelper.csproj",
+        "projectUniqueName": "C:\\lalalb\\abc02\\def01\\Function\\defHelper.csproj",
         "projectName": "defHelper",
-        "projectPath": "C:\\lalala\\abc02\\def01\\Function\\defHelper.csproj",
+        "projectPath": "C:\\lalalb\\abc02\\def01\\Function\\defHelper.csproj",
         "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-        "outputPath": "C:\\lalala\\abc02\\def01\\Function\\obj\\",
+        "outputPath": "C:\\lalalb\\abc02\\def01\\Function\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
