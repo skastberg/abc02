@@ -1,0 +1,13 @@
+C:\lalala\abc02\def01\Function\bin\Debug\net8\defHelper.deps.json
+C:\lalala\abc02\def01\Function\bin\Debug\net8\defHelper.dll
+C:\lalala\abc02\def01\Function\bin\Debug\net8\defHelper.pdb
+C:\lalala\abc02\def01\Function\obj\Debug\net8\defHelper.csproj.AssemblyReference.cache
+C:\lalala\abc02\def01\Function\obj\Debug\net8\defHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\lalala\abc02\def01\Function\obj\Debug\net8\defHelper.AssemblyInfoInputs.cache
+C:\lalala\abc02\def01\Function\obj\Debug\net8\defHelper.AssemblyInfo.cs
+C:\lalala\abc02\def01\Function\obj\Debug\net8\defHelper.csproj.CoreCompileInputs.cache
+C:\lalala\abc02\def01\Function\obj\Debug\net8\defHelper.sourcelink.json
+C:\lalala\abc02\def01\Function\obj\Debug\net8\defHelper.dll
+C:\lalala\abc02\def01\Function\obj\Debug\net8\refint\defHelper.dll
+C:\lalala\abc02\def01\Function\obj\Debug\net8\defHelper.pdb
+C:\lalala\abc02\def01\Function\obj\Debug\net8\ref\defHelper.dll

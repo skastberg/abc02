@@ -1,0 +1,19 @@
+[
+  {
+    "name": "defHelper",
+    "scriptFile": "defHelper.dll",
+    "entryPoint": "fabricam.defHelper.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "zipCode",
+        "direction": "In",
+        "type": "workflowActionTrigger",
+        "properties": {}
+      }
+    ]
+  }
+]
