@@ -1,9 +1,4 @@
 is_global = true
-build_property.FunctionsEnableMetadataSourceGen = 
-build_property.FunctionsEnableExecutorSourceGen = false
-build_property.FunctionsAutoRegisterGeneratedFunctionsExecutor = true
-build_property.FunctionsAutoRegisterGeneratedMetadataProvider = false
-build_property.FunctionsGeneratedCodeNamespace = 
 build_property.TargetFramework = net8
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
